@@ -1,0 +1,5 @@
+This is the source data for the animation `Clusters of French Policies Targeting People of Non-European Ancestry, 1603–1758`.
+
+Everything is client-side code (HTML, Javascript, CSS), with no dependencies on external libraries.
+The entrypoint is `law-clusters.html`.
+The file `law-clusters-lib.js` includes the javascript code to render the interactive elements of the visualization, and `law-clusters-data.js` contains the raw data for the clusters.
